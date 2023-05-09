@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-demo
+  annotations:
+    github.com/project-slug: d90ares/IDP-infraestructure
+spec:
+  type: other
+  lifecycle: unknown
+  owner: d90ares
